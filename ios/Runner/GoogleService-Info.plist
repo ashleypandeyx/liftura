@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879521057242-5tras13j3894irp5n891uhiorhmogb34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879521057242-5tras13j3894irp5n891uhiorhmogb34</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>879521057242-7hoscgka63ogrfatj2rmet59a57fdtp3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrKxfHUrSwd4ayb0N6EIUsaz7AOhcGAhQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879521057242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.lifturanew</string>
+	<key>PROJECT_ID</key>
+	<string>workoutapp-616d04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>workoutapp-616d04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879521057242:ios:fbac1b4e0daa673d3e58e3</string>
+</dict>
+</plist>

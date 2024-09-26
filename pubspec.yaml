@@ -1,0 +1,43 @@
+name: flutter_application
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  circular_countdown_timer: ^0.2.4
+  intl: ^0.19.0
+  firebase_core: ^3.3.0  # Downgraded to avoid conflicts
+  firebase_auth: ^5.2.0  
+  google_sign_in: ^6.2.1  
+  google_sign_in_ios: ^5.7.7
+  cloud_firestore: ^5.3.0
+  camera: ^0.11.0+2  # For recording videos
+  image_picker: ^1.1.2  # For picking videos
+  path_provider: ^2.1.4  # Saving files locally
+  path: ^1.8.0
+  video_player: ^2.9.1  # For video preview
+# mediapipe_genai: ^0.0.1  # MediaPipe integration
+ # mediapipe_core: ^0.0.1
+  mediapipe: ^0.0.1
+  thinksys_mediapipe_plugin: ^0.0.11
+  google_gemini: ^0.1.2  # For Gemini API
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/googlelogo.png
+    - assets/images/icon.png
+    - assets/images/logo.png

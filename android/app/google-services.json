@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "879521057242",
+    "project_id": "workoutapp-616d04",
+    "storage_bucket": "workoutapp-616d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879521057242:android:01d708b4875e52ef3e58e3",
+        "android_client_info": {
+          "package_name": "app.liftur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879521057242-gfv983rh1kidal5k8aesekbi76r3tuke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBc15pF32vQ_DRxx0aP-m26BtDLIAlBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879521057242-3qke68ql5b651qe42nt5ul3aqcmef67r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879521057242-3ktnuoi0ren0c5ba3phfhms8foasgtk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.lifturav3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879521057242:android:e5557b238d1834e63e58e3",
+        "android_client_info": {
+          "package_name": "app.lifturav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879521057242-gfv983rh1kidal5k8aesekbi76r3tuke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBc15pF32vQ_DRxx0aP-m26BtDLIAlBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879521057242-3qke68ql5b651qe42nt5ul3aqcmef67r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879521057242-3ktnuoi0ren0c5ba3phfhms8foasgtk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.lifturav3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879521057242:android:520e27838bf232eb3e58e3",
+        "android_client_info": {
+          "package_name": "com.example.liftura2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879521057242-8uljgmoggo49fn0r4dr2amhva1ph3uq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liftura2",
+            "certificate_hash": "04e8b471e5b1d24e5e21ac79212ea68787056b8e"
+          }
+        },
+        {
+          "client_id": "879521057242-gfv983rh1kidal5k8aesekbi76r3tuke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBc15pF32vQ_DRxx0aP-m26BtDLIAlBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879521057242-3qke68ql5b651qe42nt5ul3aqcmef67r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879521057242-3ktnuoi0ren0c5ba3phfhms8foasgtk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.lifturav3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879521057242:android:dc5ea0a94196d6bd3e58e3",
+        "android_client_info": {
+          "package_name": "com.liftura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879521057242-7hoscgka63ogrfatj2rmet59a57fdtp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liftura",
+            "certificate_hash": "04e8b471e5b1d24e5e21ac79212ea68787056b8e"
+          }
+        },
+        {
+          "client_id": "879521057242-gfv983rh1kidal5k8aesekbi76r3tuke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBc15pF32vQ_DRxx0aP-m26BtDLIAlBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879521057242-3qke68ql5b651qe42nt5ul3aqcmef67r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879521057242-3ktnuoi0ren0c5ba3phfhms8foasgtk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.lifturav3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
